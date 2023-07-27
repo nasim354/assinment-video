@@ -1,0 +1,70 @@
+.container{
+    margin-bottom:7%;
+    font-family: unicode;
+
+}
+.school{
+    color: rgb(129, 129, 18);
+    font-size: 50px;
+    text-align: center;
+}
+.name{
+    color:rgb(23, 82, 23);
+}
+
+box:hover{
+background-color:rgb(9, 9, 219);
+}
+
+
+
+.nasim{
+    padding: 10px;
+    box-shadow: 5px 5px 25px rgb(204, 204, 155);
+    border-radius: 10px;
+}
+
+.color{
+    background-color: rgb(224, 255, 216);
+    border-radius:10px;
+}
+.col{
+    color: rgb(238, 87, 87);
+}
+.colo{
+    font-family: bold;
+}
+.c-d{
+    color: rgb(55, 68, 243);
+}
+.hd{
+    background-color:rgb(176, 241, 220);
+    border-radius:7px;
+}
+.tex-aling{
+    text-align:center;
+}
+.hp{ 
+    background-color:none;
+     box-shadow: 10px 10px 50px #bedabc;
+}
+.text{
+    text-align:right;
+}
+.font:hover{
+    font-family:sans-serif;
+    color: rgb(2, 68, 35);
+}
+.bd{
+    background-color: rgba(0, 0, 0, 0.89);
+    border-radius: 7px;
+}
+.bg{
+    color: aliceblue;
+}
+.dg{
+    color: #bedabc;
+}
+.bg:hover{
+    color: rgb(169, 252, 252);
+}
